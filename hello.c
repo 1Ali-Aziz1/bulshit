@@ -1,5 +1,5 @@
 // #include <stdio.h>
-//Allah never leaves your
+
 int main(){
     // printf("Hello");
     char c= "b";
