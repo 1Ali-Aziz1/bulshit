@@ -1,11 +1,7 @@
-// #include <stdio.h>
+#include <stdio.h>
+#include <cs50.h>
 
 int main(){
-    // printf("Hello");
-    char c= "b";
-    while (c == "b")
-    {
-        char m = "r";
-    }
-    
+    string name = get_string("What's your name? ");
+    printf("Your name is %s\n", name);
 }
